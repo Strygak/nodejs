@@ -1,0 +1,22 @@
+{
+  "name": "myapp",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.18.2",
+    "cookie-parser": "~1.4.3",
+    "csv": "^2.0.0",
+    "debug": "~2.6.9",
+    "express": "~4.15.5",
+    "fast-csv": "^2.4.1",
+    "jade": "~1.11.0",
+    "mongoose": "^4.13.7",
+    "morgan": "~1.9.0",
+    "promised-csv": "^1.0.1",
+    "requestify": "^0.2.5",
+    "serve-favicon": "~2.4.5"
+  }
+}
